@@ -1,2 +1,0 @@
-# OMD-LAB
-OOMD
